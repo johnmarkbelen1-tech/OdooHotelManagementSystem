@@ -1037,3 +1037,11 @@ class QuickRoomReservation(models.TransientModel):
                                             })]
                      }))
         return rec
+
+
+
+
+
+
+# my 2nd activity for itec 111
+                                      
